@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rm6F5DI6X4sUTLs8pq2DvQNX+QJOzuUvYTv8SDy16MM9/oYsZq/b8ff3XRAQKyYuWZscqfxIAKStexN8K3rjgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Prince\\OneDrive - Tshwane University of Technology\\Documents\\GlobalKinetic\\CoinJar\\CoinJar\\CoinJar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Prince\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
+  ],
+  "logs": []
+}
